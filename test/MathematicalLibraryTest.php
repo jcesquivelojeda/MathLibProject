@@ -5,7 +5,7 @@
  * Date: 29/06/15
  * Time: 01:03 PM
  */
-
+require_once __DIR__.'/../vendor/autoload.php';
 require_once __DIR__ . '/../src/Calculator.php';
 require_once __DIR__.'/../src/MathematicalLibrary.php';
 require_once __DIR__.'/../src/Display.php';
