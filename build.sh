@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "Build was run"
+echo "Probando Biblioteca Matematica"
 
-exit 0
+phpunit test
